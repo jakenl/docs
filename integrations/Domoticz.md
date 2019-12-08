@@ -64,6 +64,7 @@ The following services should be made available:
 - You have installed/access to a MQTT broker server and made contact with your sonoff
 - You have installed Domoticz
 - You have installed the Domoticz MQTT Discovery plugin
+- You have flashed your Sonoff device with a Tasmota firmware version that supports MQTT Discovery (e.g. not the 'basic' version)
 
 ### MQTT Discovery Plugin
 Configure Domoticz MQTT Discovery plugin.
